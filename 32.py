@@ -6,3 +6,4 @@ while numero >= 0:
     numero = int(input("Ingresa otro número positivo (o un número negativo para salir): "))
 
 print("La suma de los números ingresados es:", suma)
+print("este es un cambio echo para git hub")
